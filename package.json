@@ -1,0 +1,25 @@
+{
+  "name": "ws_antinflamatorios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonhowtf/WS_ANTINFLAMATORIOS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonhowtf/WS_ANTINFLAMATORIOS/issues"
+  },
+  "homepage": "https://github.com/tonhowtf/WS_ANTINFLAMATORIOS#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cheerio": "^1.0.0",
+    "user-agents": "^1.1.530"
+  }
+}
